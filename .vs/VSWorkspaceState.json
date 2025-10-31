@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Back-end"
+    "\\Back-end",
+    "\\Back-end\\DAL",
+    "\\Back-end\\Dto",
+    "\\Front-end"
   ],
-  "SelectedNode": "\\Back-end\\WeatherForecast.cs",
+  "SelectedNode": "\\Back-end\\Sehaty.slnx",
   "PreviewInSolutionExplorer": false
 }
