@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/Domain/Domain.csproj" Id="bbc039a4-eeeb-4032-917d-27704a26169a" />
+    <Project Path="Core/Services.Abstraction/Services.Abstraction.csproj" Id="56f5d59b-3b67-4aa3-87da-85e39a057d37" />
+    <Project Path="Core/Services/Services.csproj" Id="7610526c-1d1a-4ca6-ad8a-7370132f0039" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/Persistence/Persistence.csproj" Id="caf52232-a09c-42a0-9ee8-b9b01da81074" />
+    <Project Path="Infrastructure/Presentation/Presentation.csproj" Id="ef337281-4179-4ffa-bfed-c86ff1451534" />
+  </Folder>
+  <Project Path="Sehaty API/Sehaty API.csproj" />
+  <Project Path="Shared/Shared.csproj" Id="b482de32-fa37-42b4-b271-870139212492" />
+</Solution>
