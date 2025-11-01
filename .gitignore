@@ -30,3 +30,10 @@ Release/
 **/CopilotIndices/
 *.db
 *.sqlite
+
+## Ignore obj folders
+Sehaty API/obj
+Sehaty.Applications/obj
+Sehaty.Core/obj
+Sehaty.Infrasructure/obj
+Sehaty.Infrastructure/obj
