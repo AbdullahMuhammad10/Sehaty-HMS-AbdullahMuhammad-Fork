@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sehaty API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0058f83206e04994f29909f745afaebdc74c08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6713339f45ce43125ed1b573db5857803990c4b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sehaty API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sehaty API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
