@@ -1,4 +1,4 @@
-@Sehaty_API_HostAddress = http://localhost:5262
+@Sehaty_API_HostAddress = http://localhost:5285
 
 GET {{Sehaty_API_HostAddress}}/weatherforecast/
 Accept: application/json

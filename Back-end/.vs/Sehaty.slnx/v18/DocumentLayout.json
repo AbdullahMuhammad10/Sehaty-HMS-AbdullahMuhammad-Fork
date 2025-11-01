@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\core\\domain\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6348C614-7BA5-1802-76E4-0B8B45B9E790}|Sehaty.Infrastructure\\Sehaty.Infrastructure.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.infrastructure\\data\\sehatydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348C614-7BA5-1802-76E4-0B8B45B9E790}|Sehaty.Infrastructure\\Sehaty.Infrastructure.csproj|solutionrelative:sehaty.infrastructure\\data\\sehatydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\core\\domain\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.core\\entites\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|solutionrelative:sehaty.core\\entites\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\core\\domain\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF65416C-678D-B3E5-B6BC-24D3454386B2}|Sehaty.Applications\\Sehaty.Applications.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.applications\\sehaty.applications.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF65416C-678D-B3E5-B6BC-24D3454386B2}|Sehaty.Applications\\Sehaty.Applications.csproj|solutionrelative:sehaty.applications\\sehaty.applications.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\core\\domain\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.core\\entites\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|solutionrelative:sehaty.core\\entites\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\core\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.core\\entites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|solutionrelative:sehaty.core\\entites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\core\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC039A4-EEEB-4032-917D-27704A26169A}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.core\\entites\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|solutionrelative:sehaty.core\\entites\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.core\\entites\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|solutionrelative:sehaty.core\\entites\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|c:\\users\\dell\\desktop\\final project\\sehaty-hmc--ibrahim-fork\\back-end\\sehaty\\sehaty.core\\entites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C9EDD-8DD5-033B-D83F-80F50908D157}|Sehaty.Core\\Sehaty.Core.csproj|solutionrelative:sehaty.core\\entites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,81 +62,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Appointment.cs",
-              "RelativeToolTip": "Core\\Domain\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SehatyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Infrastructure\\Data\\SehatyDbContext.cs",
+              "RelativeDocumentMoniker": "Sehaty.Infrastructure\\Data\\SehatyDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Infrastructure\\Data\\SehatyDbContext.cs",
+              "RelativeToolTip": "Sehaty.Infrastructure\\Data\\SehatyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T20:13:34.409Z",
+              "WhenOpened": "2025-11-01T00:04:47.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Billing.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Billing.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Models\\Billing.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Billing.cs",
-              "RelativeToolTip": "Core\\Domain\\Models\\Billing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "Sehaty.Applications.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Applications\\Sehaty.Applications.csproj",
+              "RelativeDocumentMoniker": "Sehaty.Applications\\Sehaty.Applications.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Applications\\Sehaty.Applications.csproj",
+              "RelativeToolTip": "Sehaty.Applications\\Sehaty.Applications.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T23:56:31.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Feedback.cs",
+              "RelativeDocumentMoniker": "Sehaty.Core\\Entites\\Feedback.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Feedback.cs",
+              "RelativeToolTip": "Sehaty.Core\\Entites\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T20:13:21.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T23:52:39.238Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Department.cs",
-              "RelativeToolTip": "Core\\Domain\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T20:13:05.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Doctor.cs",
-              "RelativeToolTip": "Core\\Domain\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Doctor.cs",
+              "RelativeDocumentMoniker": "Sehaty.Core\\Entites\\Doctor.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Doctor.cs",
+              "RelativeToolTip": "Sehaty.Core\\Entites\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T20:12:54.048Z",
+              "WhenOpened": "2025-10-31T23:52:00.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\Role.cs",
-              "RelativeToolTip": "Core\\Domain\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Department.cs",
+              "RelativeDocumentMoniker": "Sehaty.Core\\Entites\\Department.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Department.cs",
+              "RelativeToolTip": "Sehaty.Core\\Entites\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T20:10:28.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T23:51:34.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Core\\Domain\\Models\\User.cs",
-              "RelativeToolTip": "Core\\Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Appointment.cs",
+              "RelativeDocumentMoniker": "Sehaty.Core\\Entites\\Appointment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Appointment.cs",
+              "RelativeToolTip": "Sehaty.Core\\Entites\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T20:10:08.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T23:50:57.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Billing.cs",
+              "RelativeDocumentMoniker": "Sehaty.Core\\Entites\\Billing.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\Billing.cs",
+              "RelativeToolTip": "Sehaty.Core\\Entites\\Billing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T23:50:42.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Sehaty.Core\\Entites\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Final Project\\Sehaty-HMC--Ibrahim-fork\\Back-end\\Sehaty\\Sehaty.Core\\Entites\\BaseEntity.cs",
+              "RelativeToolTip": "Sehaty.Core\\Entites\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T23:39:37.825Z"
             }
           ]
         },

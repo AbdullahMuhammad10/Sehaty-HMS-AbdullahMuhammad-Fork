@@ -1,0 +1,13 @@
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\bin\Debug\net8.0\Sehaty.Core.deps.json
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\bin\Debug\net8.0\Sehaty.Core.dll
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\bin\Debug\net8.0\Sehaty.Core.pdb
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.csproj.AssemblyReference.cache
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.AssemblyInfoInputs.cache
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.AssemblyInfo.cs
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.csproj.CoreCompileInputs.cache
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.sourcelink.json
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.dll
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\refint\Sehaty.Core.dll
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\Sehaty.Core.pdb
+C:\Users\abdow\OneDrive\Desktop\Sehaty-HMS\Back-end\Sehaty.Core\obj\Debug\net8.0\ref\Sehaty.Core.dll
