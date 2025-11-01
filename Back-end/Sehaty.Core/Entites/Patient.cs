@@ -8,5 +8,6 @@ namespace Sehaty.Core.Entites
 {
     public class Patient : BaseEntity
     {
+        public int Id { get; set; }
     }
 }
